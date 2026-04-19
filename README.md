@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/nabnita/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nabnita/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/nabnita/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0217-contains-duplicate](https://github.com/nabnita/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/nabnita/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/nabnita/leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/nabnita/leetcode/tree/main/0525-contiguous-array/) | Medium |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/nabnita/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/nabnita/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/nabnita/leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/nabnita/leetcode/tree/main/0525-contiguous-array/) | Medium |
@@ -51,4 +53,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0523-continuous-subarray-sum](https://github.com/nabnita/leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/nabnita/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 <!---LeetCode Topics End-->
