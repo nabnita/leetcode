@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/nabnita/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nabnita/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0054-spiral-matrix](https://github.com/nabnita/leetcode/tree/main/0054-spiral-matrix/) | Medium |
+| [0198-house-robber](https://github.com/nabnita/leetcode/tree/main/0198-house-robber/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/nabnita/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/nabnita/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/nabnita/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nabnita/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0070-climbing-stairs](https://github.com/nabnita/leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0198-house-robber](https://github.com/nabnita/leetcode/tree/main/0198-house-robber/) | Medium |
 | [0509-fibonacci-number](https://github.com/nabnita/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/nabnita/leetcode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Recursion
