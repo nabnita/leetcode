@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/nabnita/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/nabnita/leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/nabnita/leetcode/tree/main/0525-contiguous-array/) | Medium |
+| [0867-transpose-matrix](https://github.com/nabnita/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/nabnita/leetcode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nabnita/leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/nabnita/leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -93,10 +94,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/nabnita/leetcode/tree/main/0054-spiral-matrix/) | Medium |
+| [0867-transpose-matrix](https://github.com/nabnita/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nabnita/leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/nabnita/leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/nabnita/leetcode/tree/main/0054-spiral-matrix/) | Medium |
+| [0867-transpose-matrix](https://github.com/nabnita/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 <!---LeetCode Topics End-->
