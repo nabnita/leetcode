@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nabnita/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/nabnita/leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/nabnita/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0278-first-bad-version](https://github.com/nabnita/leetcode/tree/main/0278-first-bad-version/) | Easy |
 | [0704-binary-search](https://github.com/nabnita/leetcode/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/nabnita/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nabnita/leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
@@ -144,4 +145,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/nabnita/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/nabnita/leetcode/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
