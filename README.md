@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/nabnita/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/nabnita/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/nabnita/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/nabnita/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0523-continuous-subarray-sum](https://github.com/nabnita/leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/nabnita/leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0704-binary-search](https://github.com/nabnita/leetcode/tree/main/0704-binary-search/) | Easy |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/nabnita/leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/nabnita/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0278-first-bad-version](https://github.com/nabnita/leetcode/tree/main/0278-first-bad-version/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/nabnita/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0704-binary-search](https://github.com/nabnita/leetcode/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/nabnita/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/nabnita/leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -85,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/nabnita/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/nabnita/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0523-continuous-subarray-sum](https://github.com/nabnita/leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/nabnita/leetcode/tree/main/0525-contiguous-array/) | Medium |
 ## Math
@@ -109,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/nabnita/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0070-climbing-stairs](https://github.com/nabnita/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0198-house-robber](https://github.com/nabnita/leetcode/tree/main/0198-house-robber/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/nabnita/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0509-fibonacci-number](https://github.com/nabnita/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/nabnita/leetcode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Recursion
@@ -153,4 +157,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/nabnita/leetcode/tree/main/0278-first-bad-version/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0410-split-array-largest-sum](https://github.com/nabnita/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 <!---LeetCode Topics End-->
