@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/nabnita/leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/nabnita/leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0704-binary-search](https://github.com/nabnita/leetcode/tree/main/0704-binary-search/) | Easy |
+| [0746-min-cost-climbing-stairs](https://github.com/nabnita/leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0867-transpose-matrix](https://github.com/nabnita/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/nabnita/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/nabnita/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/nabnita/leetcode/tree/main/0198-house-robber/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/nabnita/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0509-fibonacci-number](https://github.com/nabnita/leetcode/tree/main/0509-fibonacci-number/) | Easy |
+| [0746-min-cost-climbing-stairs](https://github.com/nabnita/leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/nabnita/leetcode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
