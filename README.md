@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0875-koko-eating-bananas](https://github.com/nabnita/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/nabnita/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/nabnita/leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/nabnita/leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/nabnita/leetcode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nabnita/leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/nabnita/leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0509-fibonacci-number](https://github.com/nabnita/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/nabnita/leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/nabnita/leetcode/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/nabnita/leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
