@@ -190,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/nabnita/leetcode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/nabnita/leetcode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0206-reverse-linked-list](https://github.com/nabnita/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/nabnita/leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/nabnita/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
