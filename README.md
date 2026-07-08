@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/nabnita/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nabnita/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/nabnita/leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/nabnita/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/nabnita/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -190,4 +191,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0024-swap-nodes-in-pairs](https://github.com/nabnita/leetcode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0206-reverse-linked-list](https://github.com/nabnita/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/nabnita/leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/nabnita/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
