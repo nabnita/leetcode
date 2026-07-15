@@ -176,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/nabnita/leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/nabnita/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0933-number-of-recent-calls](https://github.com/nabnita/leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -201,4 +202,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/nabnita/leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0933-number-of-recent-calls](https://github.com/nabnita/leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/nabnita/leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
 <!---LeetCode Topics End-->
