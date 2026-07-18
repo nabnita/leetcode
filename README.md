@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/nabnita/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0054-spiral-matrix](https://github.com/nabnita/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0078-subsets](https://github.com/nabnita/leetcode/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/nabnita/leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0162-find-peak-element](https://github.com/nabnita/leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nabnita/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0198-house-robber](https://github.com/nabnita/leetcode/tree/main/0198-house-robber/) | Medium |
@@ -217,8 +218,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/nabnita/leetcode/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/nabnita/leetcode/tree/main/0090-subsets-ii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/nabnita/leetcode/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/nabnita/leetcode/tree/main/0090-subsets-ii/) | Medium |
 <!---LeetCode Topics End-->
