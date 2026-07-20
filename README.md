@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nabnita/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nabnita/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/nabnita/leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0039-combination-sum](https://github.com/nabnita/leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/nabnita/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0054-spiral-matrix](https://github.com/nabnita/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0078-subsets](https://github.com/nabnita/leetcode/tree/main/0078-subsets/) | Medium |
@@ -219,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/nabnita/leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0078-subsets](https://github.com/nabnita/leetcode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/nabnita/leetcode/tree/main/0090-subsets-ii/) | Medium |
 ## Bit Manipulation
