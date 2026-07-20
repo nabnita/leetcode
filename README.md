@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/nabnita/leetcode/tree/main/0198-house-robber/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/nabnita/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0213-house-robber-ii](https://github.com/nabnita/leetcode/tree/main/0213-house-robber-ii/) | Medium |
+| [0216-combination-sum-iii](https://github.com/nabnita/leetcode/tree/main/0216-combination-sum-iii/) | Medium |
 | [0217-contains-duplicate](https://github.com/nabnita/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/nabnita/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0283-move-zeroes](https://github.com/nabnita/leetcode/tree/main/0283-move-zeroes/) | Easy |
@@ -223,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/nabnita/leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0078-subsets](https://github.com/nabnita/leetcode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/nabnita/leetcode/tree/main/0090-subsets-ii/) | Medium |
+| [0216-combination-sum-iii](https://github.com/nabnita/leetcode/tree/main/0216-combination-sum-iii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
