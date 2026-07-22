@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/nabnita/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0125-valid-palindrome](https://github.com/nabnita/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/nabnita/leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0132-palindrome-partitioning-ii](https://github.com/nabnita/leetcode/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0242-valid-anagram](https://github.com/nabnita/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/nabnita/leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/nabnita/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/nabnita/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0070-climbing-stairs](https://github.com/nabnita/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/nabnita/leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0132-palindrome-partitioning-ii](https://github.com/nabnita/leetcode/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0198-house-robber](https://github.com/nabnita/leetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/nabnita/leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/nabnita/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
