@@ -238,4 +238,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0078-subsets](https://github.com/nabnita/leetcode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/nabnita/leetcode/tree/main/0090-subsets-ii/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/nabnita/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/nabnita/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/nabnita/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/nabnita/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
