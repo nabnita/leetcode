@@ -11,20 +11,25 @@
  */
 class Solution {
 public:
-    int solve(TreeNode* root, long long targetSum, long long sum) {
+    void solve(TreeNode* root, int targetSum, int &count, vector<int> &temp) {
         if(root == NULL)
-            return 0;
-        sum += root->val;
-        int count = 0;
-        if(sum == targetSum)
-            count++;
-        count += solve(root->left, targetSum, sum);
-        count += solve(root->right, targetSum, sum);
-        return count;
+            return;
+        temp.push_back(root->val);
+        solve(root->left, targetSum, count,temp);
+        solve(root->right, targetSum, count,temp);
+        long long sum=0;
+        for(int i=temp.size()-1;i>=0;i--){
+            sum+=temp[i];
+            if(sum == targetSum){
+                count++;
+            }
+        }
+        temp.pop_back();
     }
     int pathSum(TreeNode* root, int targetSum) {
-        if(root == NULL)
-            return 0;
-        return solve(root, targetSum, 0) + pathSum(root->left, targetSum)+ pathSum(root->right, targetSum);
+        vector<int> temp;
+        int count = 0;
+        solve(root, targetSum, count,temp);
+        return count;
     }
 };
