@@ -249,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0113-path-sum-ii](https://github.com/nabnita/leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0437-path-sum-iii](https://github.com/nabnita/leetcode/tree/main/0437-path-sum-iii/) | Medium |
 | [0687-longest-univalue-path](https://github.com/nabnita/leetcode/tree/main/0687-longest-univalue-path/) | Medium |
+| [0700-search-in-a-binary-search-tree](https://github.com/nabnita/leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -276,4 +277,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0113-path-sum-ii](https://github.com/nabnita/leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0437-path-sum-iii](https://github.com/nabnita/leetcode/tree/main/0437-path-sum-iii/) | Medium |
 | [0687-longest-univalue-path](https://github.com/nabnita/leetcode/tree/main/0687-longest-univalue-path/) | Medium |
+| [0700-search-in-a-binary-search-tree](https://github.com/nabnita/leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/nabnita/leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
