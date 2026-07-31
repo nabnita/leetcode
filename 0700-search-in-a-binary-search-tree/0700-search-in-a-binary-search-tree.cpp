@@ -15,10 +15,12 @@ public:
         if(root==NULL){
             return 0;
         }
-        if (root->val == val)
+        else if (root->val == val){
             return root;
-        if (val < root->val)
+        }
+        else if (val < root->val){
             return searchBST(root->left, val);
+        }
         return searchBST(root->right, val);
     }
 };
